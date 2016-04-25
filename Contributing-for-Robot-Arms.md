@@ -1,32 +1,12 @@
 # Introduction
 
-### Write something nice here!
+Welcome! We're delighted that you're interested in contributing to Robot Arms. In these guidelines, we explain our expectations -- as well as what you can expect from us -- and spell out the necessary concrete steps. Our goal is make it easy and fun to participate in this project, and of course to create fascinating and subversive art together.
 
->First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+"Us" = a loose collective of founding members who met in the [Cyberpunk Futurism chat group](http://exolymph.com/cyberpunk-futurism-chat-group/). [Way Spurr-Chen](http://wayspurrchen.com/) is the project manager and the closest thing to someone in charge.
 
-[source: [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)] **Need more inspiration?** [1] [Read The Docs](http://read-the-docs.readthedocs.org/en/latest/contribute.html) [2] [Mustache.js](https://github.com/janl/mustache.js/#contributing)
+### What should I contribute?
 
-### Tell them why they should read your guidelines.
-
->Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
-
-[source: [Hoodie](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md)]
-
-### Explain what kinds of contributions you are looking for.
-
-Keep an open mind! Improving documentation, bug triaging, or writing tutorials are all examples of helpful contributions that mean less work for you.
-
-> Elasticsearch is an open source project and we love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into Elasticsearch itself.
-
-[source: [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md)] **Need more inspiration?** [1] [Devise](https://github.com/plataformatec/devise/wiki/Contributing) [2] [Geocoder](https://github.com/alexreisner/geocoder#known-issue) (“known issue”)
-
-### Explain contributions you are NOT looking for (if any).
-
-Again, defining this up front means less work for you. If someone ignores your guide and submits something you don’t want, you can simply close it and point to your policy.
-
-> Please, don't use the issue tracker for [support questions]. Check whether the #pocoo IRC channel on Freenode can help with your issue. If your problem is not strictly Werkzeug or Flask specific, #python is generally more active. Stack Overflow is also worth considering.
-
-[source: [Flask](https://github.com/pallets/flask/blob/master/CONTRIBUTING.rst)] **Need more inspiration?** [1] [cucumber-ruby](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#about-to-create-a-new-github-issue) [2] [Read the Docs](http://read-the-docs.readthedocs.org/en/latest/open-source-philosophy.html#unsupported)
+Your time, energy, and creativity! Visual artwork and text-based stories will make up the bulk of the zine, but if you want to submit video or audio we can figure out how to include it. Helping with the code and improving the documentation is also welcome! If you have another idea, get in touch and we'll talk about it.
 
 # Ground Rules
 ### Set expectations for behavior (yours, and theirs).
